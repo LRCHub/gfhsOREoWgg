@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "【結月ゆかり】告 白【ギルティクラウン】",
+  "base_artist": "タカオカミズキ",
+  "createdAt": "2025-12-01T13:08:32.159275Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "告白",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": false,
+      "path": "select/pl_01_告白_FUNKY_MONKEY_BABYS.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "告白",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": false,
+      "path": "select/pl_02_告白_FUNKY_MONKEY_BABYS.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "告白",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": false,
+      "path": "select/pl_03_告白_FUNKY_MONKEY_BABYS.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "告白",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": false,
+      "path": "select/pl_04_告白_FUNKY_MONKEY_BABYS.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "告白",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": false,
+      "path": "select/pl_05_告白_FUNKY_MONKEY_BABYS.txt"
+    }
+  ]
+}
